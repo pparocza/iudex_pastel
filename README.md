@@ -1,2 +1,3 @@
 # iudex_pastel
-generative music with Web Audio API
+
+https://pparocza.github.io/iudex_pastel/
